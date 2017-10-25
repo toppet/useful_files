@@ -1,0 +1,21 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "http.proxy": "http://3.187.157.236:9400/",
+    "http.proxyStrictSSL": false,
+    "typescript.check.tscVersion": false,
+    "workbench.welcome.enabled": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "window.zoomLevel": 0,
+    "guides.enabled": false,
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": true,
+    "material-icon-theme.showUpdateMessage": false,
+    "html.suggest.html5": true,
+    "files.associations": {
+        "*.js": "javascriptreact"
+    },
+    // "emmet.syntaxProfiles": {
+    //     "javascript": "jsx"
+    // },
+}
